@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T07:06:18.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.6.2" etag="DMc12LL_5_-MAlvFal_T" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T07:07:19.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="20.6.2" etag="-wBPRochyw4kc1elhNlP" type="github">
   <diagram id="kjn4RJREdBkDt0vs_SB-" name="Page-1">
     <mxGraphModel dx="1022" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="ED3x_BM8nDXNU_VwD4fe-21" value="Manifest YAML File" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ED3x_BM8nDXNU_VwD4fe-24" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#66FF66;fillColor=#66FF66;opacity=10;" vertex="1" parent="1">
+          <mxGeometry x="40" width="960" height="500" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

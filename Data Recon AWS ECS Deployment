@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T11:46:47.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IBJ3rOiejRAc15bhzhEA" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-30T11:47:01.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IA8MEGcy81xyvHwojaKS" version="21.1.1" type="github" pages="2">
   <diagram id="kjn4RJREdBkDt0vs_SB-" name="Page-1">
     <mxGraphModel dx="794" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vADNeuX5lNJCNcJ4uPip-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="-480" width="2070" height="1360" as="geometry" />
+          <mxGeometry x="-240" y="-480" width="2880" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="qTkQNur8JJMbT83AjN4G-6" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#1A1A1A;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-120" y="-190" width="570" height="780" as="geometry" />
@@ -178,7 +178,7 @@
           <mxGeometry x="1510" y="-345" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LL69l5j_C9Vwl49D95uq-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1445.5" y="179" width="124.5" height="121" as="geometry" />
+          <mxGeometry x="1640" y="160" width="124.5" height="121" as="geometry" />
         </mxCell>
         <mxCell id="LL69l5j_C9Vwl49D95uq-11" value="&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Create Task definition&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Add Container select HOST &amp;amp; Container PORT&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Enable Logging Insights&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="-290" width="290" height="100" as="geometry" />

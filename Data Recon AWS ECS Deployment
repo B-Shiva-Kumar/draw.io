@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T05:41:10.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Tv-CzbTgMgePUDD0hcJt" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-30T05:41:34.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Hl0uR2W1oDXR0IdUlYPX" version="21.1.1" type="github" pages="2">
   <diagram id="kjn4RJREdBkDt0vs_SB-" name="Page-1">
     <mxGraphModel dx="934" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="vADNeuX5lNJCNcJ4uPip-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AWS CLI&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-80" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmXWKLNuBDTnkLp2VGr3-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="395" width="50" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
